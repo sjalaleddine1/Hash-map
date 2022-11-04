@@ -1,11 +1,3 @@
-# Name: Salim Jalaleddine
-# OSU Email: jalaleds@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: Assignment 6
-# Due Date: 6/4/2022 (Used 1 free day)
-# Description: Implementation of hash map open addressing for collision resolution
-
-
 from a6_include import (DynamicArray, HashEntry,
                         hash_function_1, hash_function_2)
 
